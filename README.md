@@ -1,12 +1,12 @@
-# Escape Room
-Rachel Kroetch, Nicholas Werner, Pirooz Wallace, Paolo Rafael
+# Curiousity
+Aruj
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
 
 ## Deployed Site
 
-https://react-escape-room.herokuapp.com/
+
 
 ## Table of Contents
 * [Description](#description)
@@ -39,19 +39,7 @@ Contributions: Styling of the login page and the game info page backgrounds.  Ga
 
 ## Screenshots
 
-![Login Screen](screenshots/escapeLogin.png)
 
-![Game Info Screen](screenshots/escapeGameInfo.png)
-
-![Office](screenshots/escapeOffice.png)
-
-![Painting](screenshots/escapePainting.png)
-
-![Bookshelf](screenshots/escapeBookshelf.png)
-
-![Safe](screenshots/escapeSafe.png)
-
-![LeaderBoard](screenshots/escapeLeaderBoard.png)
 
 ## Installation
 
@@ -75,18 +63,12 @@ Heroku deployed site requires no installation. If you would like to install on y
 
 Email:
 
-paolorafaelyap@gmail.com
-
-ncwerner@gmail.com
-
-rkroetch8@gmail.com
-
-PiroozWallace@outlook.com
+arujgovindrao2001@gmail.com
 
 
 ## License 
 
-Copyright <2021> <Rachel Kroetch, Nicholas Werner, Paolo Rafael, Pirooz Wallace>
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
