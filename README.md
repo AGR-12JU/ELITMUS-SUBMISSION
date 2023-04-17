@@ -11,7 +11,7 @@ https://curiousity-aruj.netlify.app/
 
 
 ## Description
-A  treasure hunt game named "curiousity" where users will have to piece together clues and riddles in order to find a key and escape before the killer gets home.  Made using the MERN Stack. 2D game played by clicking / dragging on images to find clues and figure out puzzles and riddles. App has user authentication and stores save file with progress in Mongo database. It shows winners in winners list and time take by them to complete the task . It uses problem solving and decision making skills to solve the problem . 
+A  puzzle game like treasure hunt named "curiousity" where users will have to piece together clues and riddles in order to find a key and escape before the killer gets home.  Made using the MERN Stack. 2D game played by clicking / dragging on images to find clues and figure out puzzles and riddles. App has user authentication and stores save file with progress in Mongo database. It shows winners in winners list and time take by them to complete the task . It uses problem solving and decision making skills to solve the problem . 
 
 ## Credits
 
